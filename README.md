@@ -74,19 +74,6 @@ Python • NumPy • Pandas • OpenCV • LangChain • LLM APIs
 
 ---
 
-# 🏆 Featured Projects
-
-### 📄 Resume Auto-Filler
-AI-powered browser extension that automatically fills internship and job application forms.
-
-### WEB-CLI OS
-Browser-based operating system built with React and JavaScript, featuring a terminal interface, virtual file system, command execution, and desktop-like user experience.
-
-
-### Hand-Painter
-Computer vision application that enables real-time virtual drawing using hand gestures through OpenCV and MediaPipe, eliminating the need for physical input devices.
-
----
 
 ## 🌐 Connect With Me
 
